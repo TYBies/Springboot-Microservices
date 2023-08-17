@@ -1,0 +1,12 @@
+com\toyin\orderservice\model\OrderLineItems.class
+com\toyin\orderservice\dto\InventoryResponse.class
+com\toyin\orderservice\OrderServiceApplication.class
+com\toyin\orderservice\dto\OrderResponse.class
+com\toyin\orderservice\dto\OrderRequest.class
+com\toyin\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\toyin\orderservice\model\Order.class
+com\toyin\orderservice\config\WebClientConfig.class
+com\toyin\orderservice\contorller\OrderController.class
+com\toyin\orderservice\repository\OrderRepository.class
+com\toyin\orderservice\dto\OrderLineItemsDTO.class
+com\toyin\orderservice\service\OrderService.class

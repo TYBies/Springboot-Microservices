@@ -1,0 +1,10 @@
+de\toyin\productservice\dto\ProductRequest$ProductRequestBuilder.class
+de\toyin\productservice\dto\ProductRequest.class
+de\toyin\productservice\dto\ProductResponse$ProductResponseBuilder.class
+de\toyin\productservice\dto\ProductResponse.class
+de\toyin\productservice\repository\ProductRepository.class
+de\toyin\productservice\model\Product$ProductBuilder.class
+de\toyin\productservice\ProductServiceApplication.class
+de\toyin\productservice\controller\ProductController.class
+de\toyin\productservice\service\ProductService.class
+de\toyin\productservice\model\Product.class

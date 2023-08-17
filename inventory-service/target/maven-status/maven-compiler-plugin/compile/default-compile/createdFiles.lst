@@ -1,0 +1,8 @@
+com\toyin\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\toyin\inventoryservice\InventoryServiceApplication.class
+com\toyin\inventoryservice\model\Inventory.class
+com\toyin\inventoryservice\repository\InventoryRepository.class
+com\toyin\inventoryservice\controller\InventoryController.class
+com\toyin\inventoryservice\dto\InventoryResponse.class
+com\toyin\inventoryservice\service\InventoryService.class
+com\toyin\inventoryservice\dto\InventoryRequest.class
