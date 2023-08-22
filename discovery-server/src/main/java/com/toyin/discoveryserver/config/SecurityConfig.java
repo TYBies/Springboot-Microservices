@@ -17,7 +17,6 @@ import static org.springframework.security.config.Customizer.withDefaults;
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig  {
-
     @Value("${eureka.username}")
     private String username;
 
@@ -50,7 +49,6 @@ public class SecurityConfig  {
         return manager;
     }
 
-
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         http
@@ -63,5 +61,4 @@ public class SecurityConfig  {
                 .httpBasic(withDefaults());
         return http.build();
     }
-
 }
